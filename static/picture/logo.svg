@@ -1,0 +1,14 @@
+<svg width="300" height="50" viewBox="0 0 300 50" xmlns="http://www.w3.org/2000/svg">
+  <text 
+    x="0" 
+    y="40" 
+    font-size="32" 
+    font-family="'Brush Script MT', 'Lucida Calligraphy', 'Comic Sans MS', cursive"
+    fill="black" 
+    font-weight="bold"
+    letter-spacing="1.5">
+    Mestari Travel
+  </text>
+
+  <path d="M200 29L209.5 32L217.5 24L227.5 31L238 29L233.5 14.5L217.5 19.5L208.5 14.5L199 16L200 29Z" fill="#F1A501"/>
+</svg>
